@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\L2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89DFB389-0031-4095-AFF8-48F77250EA1F}|..\\Exemplu7\\Exemplu7.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C577B1CE-AC9F-4A86-917A-4BC855FE641E}|..\\Exemplu6\\Exemplu6.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65E81F3A-B4D7-496D-A729-EF1F948C4799}|..\\Exemplu5\\Exemplu5.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F30629-6CE9-44DD-9E1B-A05BFF54C0BC}|..\\Exemplu4\\Exemplu4.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2A5457F-3FAA-4D7C-9B8E-32F85655483A}|..\\Exemplu3\\Exemplu3.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B6D84E-3FFE-4A73-BD44-FD3DC2357A10}|L2.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\L2\\exemplul1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B6D84E-3FFE-4A73-BD44-FD3DC2357A10}|L2.csproj|solutionrelative:exemplul1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217CD5E1-BDD2-48AF-B5B1-38B67578BF11}|..\\Exemplu2\\Exemplu2.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\labs\\exemplu2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu7\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu7\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu7\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:39:06.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu6\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu6\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:26:51.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu5\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu5\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:24:49.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu4\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu4\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:20:32.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu3\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu3\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:19:53.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Exemplu2\\Program.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\Exemplu2\\Program.cs",
+              "RelativeToolTip": "..\\Exemplu2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:18:42.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Exemplul1.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\L2\\Exemplul1.cs",
+              "RelativeDocumentMoniker": "Exemplul1.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Labs\\L2\\Exemplul1.cs",
+              "RelativeToolTip": "Exemplul1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:10:50.207Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

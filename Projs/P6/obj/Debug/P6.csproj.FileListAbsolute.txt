@@ -1,0 +1,5 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P6\obj\Debug\P6.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P6\obj\Debug\P6.Form1.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P6\obj\Debug\P6.Properties.Resources.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P6\obj\Debug\P6.csproj.GenerateResource.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P6\obj\Debug\P6.csproj.CoreCompileInputs.cache

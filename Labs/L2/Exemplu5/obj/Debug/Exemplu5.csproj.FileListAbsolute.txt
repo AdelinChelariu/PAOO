@@ -1,0 +1,7 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\bin\Debug\Exemplu5.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\bin\Debug\Exemplu5.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\bin\Debug\Exemplu5.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\obj\Debug\Exemplu5.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\obj\Debug\Exemplu5.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\obj\Debug\Exemplu5.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu5\obj\Debug\Exemplu5.pdb

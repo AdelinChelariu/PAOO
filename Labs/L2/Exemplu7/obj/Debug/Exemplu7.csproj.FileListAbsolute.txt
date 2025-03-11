@@ -1,0 +1,7 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\bin\Debug\Exemplu7.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\bin\Debug\Exemplu7.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\bin\Debug\Exemplu7.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\obj\Debug\Exemplu7.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\obj\Debug\Exemplu7.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\obj\Debug\Exemplu7.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Exemplu7\obj\Debug\Exemplu7.pdb
