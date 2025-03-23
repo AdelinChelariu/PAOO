@@ -1,0 +1,10 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\bin\Debug\P7.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\bin\Debug\P7.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\bin\Debug\P7.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.Form1.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.Properties.Resources.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.csproj.GenerateResource.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P7\obj\Debug\P7.pdb

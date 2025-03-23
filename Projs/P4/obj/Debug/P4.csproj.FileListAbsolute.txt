@@ -9,3 +9,14 @@ E:\CTI\Anul III\Sem II\PAOO\Projs\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
 E:\CTI\Anul III\Sem II\PAOO\Projs\P4\obj\Debug\P4.exe
 E:\CTI\Anul III\Sem II\PAOO\Projs\P4\obj\Debug\P4.pdb
 E:\CTI\Anul III\Sem II\PAOO\Projs\P4\obj\Debug\P4.Form2.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\bin\Debug\P4.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\bin\Debug\P4.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\bin\Debug\P4.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.Form1.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.Form2.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.Properties.Resources.resources
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.csproj.GenerateResource.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Projs\P4\obj\Debug\P4.pdb

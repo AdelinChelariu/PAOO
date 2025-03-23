@@ -1,0 +1,15 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\bin\Debug\net8.0\36.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\bin\Debug\net8.0\36.deps.json
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\bin\Debug\net8.0\36.runtimeconfig.json
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\bin\Debug\net8.0\36.dll
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\bin\Debug\net8.0\36.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.AssemblyInfoInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.AssemblyInfo.cs
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.sourcelink.json
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.dll
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\refint\36.dll
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\36.genruntimeconfig.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\Lab4\36\obj\Debug\net8.0\ref\36.dll

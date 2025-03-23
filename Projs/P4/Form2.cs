@@ -8,6 +8,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
 
 namespace P4
 {
@@ -21,17 +22,16 @@ namespace P4
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             linkLabel1.LinkVisited = true;
-            string pdfPath = System.IO.Path.Combine(Application.StartupPath, "Resources", "Curs1.pdf");
+            string pdfPath = Path.Combine(Application.StartupPath, "Resources", "Curs2.pdf");
             Process.Start(new ProcessStartInfo
             {
-                FileName = pdfPath,
-                UseShellExecute = true
+                FileName = pdfPath
             });
         }
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             linkLabel1.LinkVisited = true;
-            string pdfPath = System.IO.Path.Combine(Application.StartupPath, "Resources", "Curs2.pdf");
+            string pdfPath = Path.Combine(Application.StartupPath, "Resources", "Curs2.pdf");
             Process.Start(new ProcessStartInfo
             {
                 FileName = pdfPath,
@@ -41,7 +41,7 @@ namespace P4
         private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             linkLabel1.LinkVisited = true;
-            string pdfPath = System.IO.Path.Combine(Application.StartupPath, "Resources", "Curs3.pdf");
+            string pdfPath = Path.Combine(Application.StartupPath, "Resources", "Curs3.pdf");
             Process.Start(new ProcessStartInfo
             {
                 FileName = pdfPath,
@@ -51,7 +51,7 @@ namespace P4
         private void linkLabel4_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
             linkLabel1.LinkVisited = true;
-            string pdfPath = System.IO.Path.Combine(Application.StartupPath, "Resources", "Curs4.pdf");
+            string pdfPath = Path.Combine(Application.StartupPath, "Resources", "Curs4.pdf");
             Process.Start(new ProcessStartInfo
             {
                 FileName = pdfPath,

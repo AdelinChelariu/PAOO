@@ -30,19 +30,15 @@ namespace P5
 
         private void FilterFiles(string folderPath) {
             listBox1.Items.Clear();
-
             var selectedExtensions = checkedListBox1.CheckedItems.Cast<string>().ToList();
-
             if(selectedExtensions.Count == 0) {
                 MessageBox.Show("Selectați cel puțin un tip de fișier!", "Avertizare", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
             }
-
             else {
                 var files = Directory.GetFiles(folderPath)
                                      .Where(f => selectedExtensions.Contains(Path.GetExtension(f)))
                                      .ToList();
-
                 if(files.Count == 0) {
                     listBox1.Items.Add("Niciun fișier găsit.");
                 }
@@ -51,7 +47,6 @@ namespace P5
                 }
             }
         }
-
         private void button1_Click(object sender, EventArgs e) {
             using(FolderBrowserDialog folderDialog = new FolderBrowserDialog()) {
                 if(folderDialog.ShowDialog() == DialogResult.OK) {

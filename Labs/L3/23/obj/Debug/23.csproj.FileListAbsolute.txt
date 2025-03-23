@@ -1,0 +1,7 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\bin\Debug\L3.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\bin\Debug\L3.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\bin\Debug\L3.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\obj\Debug\23.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\obj\Debug\23.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\obj\Debug\L3.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\Labs\L3\obj\Debug\L3.pdb

@@ -1,17 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\",
+  "WorkspaceRootPath": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\projs\\p4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\projs\\p4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\projs\\p4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\projs\\p4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9C8824B4-00E0-42AA-951A-2217571727F0}|P4.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -22,45 +18,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.cs",
-              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Form2.cs",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAABgAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:20:03.827Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
-              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Form2.cs [Design]",
+              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P4\\Form2.cs [Design]",
               "RelativeToolTip": "Form2.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:17:03.652Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P4\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T23:16:12.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T23:17:03.652Z"
             }
           ]
         }
