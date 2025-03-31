@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,6 +24,8 @@
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
 =======
+=======
+>>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -41,6 +44,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     }
   ],
@@ -52,7 +58,11 @@
         {
           "DockedWidth": 200,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
           "SelectedChildIndex": 1,
+=======
+          "SelectedChildIndex": 4,
+>>>>>>> Stashed changes
 =======
           "SelectedChildIndex": 4,
 >>>>>>> Stashed changes
@@ -73,7 +83,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
 =======
               "DocumentIndex": 4,
 >>>>>>> Stashed changes

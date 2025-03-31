@@ -4,6 +4,7 @@
   "Documents": [
     {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -42,6 +43,26 @@
       "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
 >>>>>>> Stashed changes
+=======
+      "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\projs\\p5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EB7D999-041E-49C8-A6C8-C3A5D614FD0D}|P5.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> Stashed changes
     }
   ],
   "DocumentGroupContainers": [
@@ -58,17 +79,23 @@
               "DocumentIndex": 1,
               "Title": "Program.cs",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Program.cs*",
               "RelativeToolTip": "Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
 =======
+=======
+>>>>>>> Stashed changes
               "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:16:15.002Z",
@@ -77,7 +104,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentIndex": 0,
+=======
+              "DocumentIndex": 4,
+>>>>>>> Stashed changes
 =======
               "DocumentIndex": 4,
 >>>>>>> Stashed changes
@@ -85,9 +116,15 @@
               "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAtwB0AAAAAAAAAAAAAAA==",
+=======
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAD4vx0AAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
 =======
               "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
@@ -104,7 +141,11 @@
               "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Projs\\P5\\Form2.cs [Design]",
+=======
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Form2.cs [Design]",
+>>>>>>> Stashed changes
 =======
               "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Projs\\P5\\Form2.cs [Design]",
 >>>>>>> Stashed changes
@@ -128,7 +169,11 @@
             {
               "$type": "Document",
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
               "DocumentIndex": 4,
+=======
+              "DocumentIndex": 0,
+>>>>>>> Stashed changes
 =======
               "DocumentIndex": 0,
 >>>>>>> Stashed changes
