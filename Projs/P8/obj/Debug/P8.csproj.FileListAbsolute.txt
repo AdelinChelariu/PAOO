@@ -1,0 +1,10 @@
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\bin\Debug\P8.exe.config
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\bin\Debug\P8.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\bin\Debug\P8.pdb
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.csproj.AssemblyReference.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.Form1.resources
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.Properties.Resources.resources
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.csproj.GenerateResource.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.csproj.CoreCompileInputs.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\P8\obj\Debug\P8.pdb
