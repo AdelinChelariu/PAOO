@@ -1,0 +1,7 @@
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\bin\Debug\Problema1.exe.config
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\bin\Debug\Problema1.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\bin\Debug\Problema1.pdb
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\obj\Debug\Problema1.csproj.AssemblyReference.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\obj\Debug\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\obj\Debug\Problema1.exe
+C:\Users\Adelin\Desktop\pfft\ANIII\Sem2\PAOO\ModelPartial\Problema1\obj\Debug\Problema1.pdb

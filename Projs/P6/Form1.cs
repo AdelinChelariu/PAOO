@@ -32,20 +32,14 @@ namespace P6 {
         }
 
         private void button1_Click(object sender, EventArgs e) {
-            // Încarcă fișierele gif din folder
             string[] gif_uri = Directory.GetFiles(@"C:\Imagini\", "*.gif");
 
             if(gif_uri.Length > 0) {
-                // Încarcă primul GIF animat în PictureBox
                 pictureBox1.Image = Image.FromFile(gif_uri[0]);
-
-                // Setează PictureBox-ul să afișeze animația
                 pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
-            
         }
 
     }
-
         private void pictureBox1_Click(object sender, EventArgs e) {
             PictureBox pbSelectat = sender as PictureBox;
             if(pbSelectat != null && pbSelectat.Tag != null) {

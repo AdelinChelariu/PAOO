@@ -1,0 +1,10 @@
+1 si 2 sunt prime intre ele. 
+2 si 3 sunt prime intre ele. 
+3 si 4 sunt prime intre ele. 
+4 si 5 sunt prime intre ele. 
+5 si 6 sunt prime intre ele. 
+6 si 7 sunt prime intre ele. 
+7 si 8 sunt prime intre ele. 
+8 si 9 sunt prime intre ele. 
+Ai introdus un numar de 8 perechi de nr prime intre ele. 
+Cifra de control al lui 9 este 9.
