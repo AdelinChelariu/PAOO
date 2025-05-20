@@ -46,14 +46,13 @@ namespace MagazinPieseAuto {
         private void LoadPiesa() {
             using(var conn = Database.GetConnection())
             using(var cmd = new MySqlCommand(
-                "SELECT denumire, producator, stoc, pret, " +
-                "       id_categorie, id_producator " +
-                "FROM PieseAuto WHERE id_piesa = @id", conn)) {
+                @"SELECT denumire, stoc, pret,
+                 id_categorie, id_producator
+          FROM PieseAuto WHERE id_piesa = @id", conn)) {
                 cmd.Parameters.AddWithValue("@id", _idPiesa.Value);
                 using(var reader = cmd.ExecuteReader()) {
                     if(reader.Read()) {
                         txtDenumire.Text = reader.GetString("denumire");
-                        txtProducator.Text = reader.GetString("producator");
                         nudStoc.Value = reader.GetInt32("stoc");
                         nudPret.Value = Convert.ToDecimal(reader.GetDouble("pret"));
                         cbCategorie.SelectedValue = reader.GetInt32("id_categorie");
@@ -64,33 +63,38 @@ namespace MagazinPieseAuto {
         }
 
         private void btnOK_Click(object sender, EventArgs e) {
+            // preia atât id-ul producătorului, cât și textul pentru coloana producator
+            var prodId = (int)cbProducator.SelectedValue;
+            var prodName = cbProducator.Text;
+
             using(var conn = Database.GetConnection()) {
                 MySqlCommand cmd;
                 if(_idPiesa.HasValue) {
                     cmd = new MySqlCommand(
                       @"UPDATE PieseAuto
-                        SET denumire     = @den,
-                            producator   = @prod,
-                            stoc         = @stoc,
-                            pret         = @pret,
-                            id_categorie = @cat,
-                            id_producator= @pr
-                        WHERE id_piesa = @id", conn);
+                SET denumire      = @den,
+                    producator    = @prodName,
+                    stoc          = @stoc,
+                    pret          = @pret,
+                    id_categorie  = @cat,
+                    id_producator = @prodId
+                WHERE id_piesa = @id", conn);
                     cmd.Parameters.AddWithValue("@id", _idPiesa.Value);
                 }
                 else {
                     cmd = new MySqlCommand(
                       @"INSERT INTO PieseAuto
-                        (denumire, producator, stoc, pret, id_categorie, id_producator)
-                        VALUES (@den, @prod, @stoc, @pret, @cat, @pr)", conn);
+                (denumire, producator, stoc, pret, id_categorie, id_producator)
+                VALUES
+                (@den, @prodName, @stoc, @pret, @cat, @prodId)", conn);
                 }
 
                 cmd.Parameters.AddWithValue("@den", txtDenumire.Text.Trim());
-                cmd.Parameters.AddWithValue("@prod", txtProducator.Text.Trim());
+                cmd.Parameters.AddWithValue("@prodName", prodName);
                 cmd.Parameters.AddWithValue("@stoc", (int)nudStoc.Value);
                 cmd.Parameters.AddWithValue("@pret", (double)nudPret.Value);
                 cmd.Parameters.AddWithValue("@cat", (int)cbCategorie.SelectedValue);
-                cmd.Parameters.AddWithValue("@pr", (int)cbProducator.SelectedValue);
+                cmd.Parameters.AddWithValue("@prodId", prodId);
 
                 cmd.ExecuteNonQuery();
             }

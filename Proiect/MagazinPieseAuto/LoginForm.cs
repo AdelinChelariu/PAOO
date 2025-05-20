@@ -6,6 +6,7 @@ namespace MagazinPieseAuto {
     public partial class LoginForm : Form {
         public LoginForm() {
             InitializeComponent();
+            this.AcceptButton = btnLogin;
         }
 
         private void btnLogin_Click(object sender, EventArgs e) {
