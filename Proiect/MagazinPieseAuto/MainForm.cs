@@ -17,23 +17,26 @@ namespace MagazinPieseAuto {
             _role = role;
 
             // Exemplu: afișăm rolul și username-ul într-un label
-            lblWelcome.Text = $"Bun venit, {_username} ({_role})";
+            lblWelcome.Text = $"Bun venit, {_username}, rolul tau: {_role}";
 
             // Dacă e client, ascundem butoane de admin
             if(_role == "CLIENT") {
                 btnAdminPanel.Visible = false;
+                btnAddPiesa.Visible = false;
+                btnAddProducator.Visible = false;
+                btnEditPiesa.Visible = false;
+                btnDeletePiesa.Visible = false;
             }
         }
 
-        private void LoadPiese(
-    string search = "",
-    int prodId = 0,
-    double priceMin = 0,
-    double priceMax = double.MaxValue,
-    int stockMin = 0,
-    string orderBy = "p.denumire",
-    string orderDir = "ASC"
-) {
+        private void LoadPiese(string search = "",
+                                int prodId = 0,
+                                double priceMin = 0,
+                                double priceMax = double.MaxValue,
+                                int stockMin = 0,
+                                string orderBy = "p.denumire",
+                                string orderDir = "ASC") {
+            LoadProducatoriFilter();
             var sql = @"SELECT p.id_piesa, p.denumire, p.producator, p.stoc, p.pret,
                         c.nume_categorie, pr.nume_producator
                         FROM PieseAuto p
@@ -139,16 +142,6 @@ namespace MagazinPieseAuto {
         private void MainForm_Load(object sender, EventArgs e) {
             LoadProducatoriFilter();
             dgvPieseAuto.RowHeadersVisible = false;
-            cbSortColumn.Items.Add(new { Text = "Denumire", Value = "p.denumire" });
-            cbSortColumn.Items.Add(new { Text = "Preț", Value = "p.pret" });
-            cbSortColumn.Items.Add(new { Text = "Stoc", Value = "p.stoc" });
-
-            cbSortColumn.DisplayMember = "Text";
-            cbSortColumn.ValueMember = "Value";
-            cbSortColumn.SelectedIndex = 0;
-
-            cbSortDirection.SelectedIndex = 0;
-
             LoadPiese();
         }
 
@@ -188,24 +181,13 @@ namespace MagazinPieseAuto {
             LoadPiese();
         }
 
-        private void btnSort_Click(object sender, EventArgs e) {
-            var col = (cbSortColumn.SelectedItem as dynamic).Value.ToString();
-            var dir = cbSortDirection.SelectedItem.ToString().ToUpper();
-
-            LoadPiese(
-                txtSearch.Text.Trim(),
-                prodId: Convert.ToInt32(cbFilterProducer.SelectedValue),
-                priceMin: (double)nudPriceMin.Value,
-                priceMax: (double)nudPriceMax.Value,
-                stockMin: (int)nudStockMin.Value,
-                orderBy: col,
-                orderDir: dir
-            );
-        }
-
         private void brnClearSearch_Click(object sender, EventArgs e) {
             txtSearch.Clear();
             LoadPiese();
+        }
+
+        private void txtSearch_TextChanged(object sender, EventArgs e) {
+            LoadPiese(txtSearch.Text.Trim());
         }
     }
 }

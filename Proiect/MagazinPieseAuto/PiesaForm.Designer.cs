@@ -174,7 +174,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1238, 1032);
+            this.ClientSize = new System.Drawing.Size(786, 588);
             this.Controls.Add(this.groupBox1);
             this.Name = "PiesaForm";
             this.Text = "Adaugare Piesa Noua";

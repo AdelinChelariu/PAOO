@@ -32,7 +32,7 @@
             // lblNumeProducator
             // 
             this.lblNumeProducator.AutoSize = true;
-            this.lblNumeProducator.Location = new System.Drawing.Point(32, 34);
+            this.lblNumeProducator.Location = new System.Drawing.Point(43, 110);
             this.lblNumeProducator.Name = "lblNumeProducator";
             this.lblNumeProducator.Size = new System.Drawing.Size(179, 25);
             this.lblNumeProducator.TabIndex = 0;
@@ -40,14 +40,14 @@
             // 
             // txtNumeProd
             // 
-            this.txtNumeProd.Location = new System.Drawing.Point(265, 34);
+            this.txtNumeProd.Location = new System.Drawing.Point(276, 110);
             this.txtNumeProd.Name = "txtNumeProd";
             this.txtNumeProd.Size = new System.Drawing.Size(362, 31);
             this.txtNumeProd.TabIndex = 1;
             // 
             // btnOk
             // 
-            this.btnOk.Location = new System.Drawing.Point(50, 128);
+            this.btnOk.Location = new System.Drawing.Point(61, 204);
             this.btnOk.Name = "btnOk";
             this.btnOk.Size = new System.Drawing.Size(109, 49);
             this.btnOk.TabIndex = 2;
@@ -57,7 +57,7 @@
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(503, 128);
+            this.btnCancel.Location = new System.Drawing.Point(514, 204);
             this.btnCancel.Name = "btnCancel";
             this.btnCancel.Size = new System.Drawing.Size(109, 49);
             this.btnCancel.TabIndex = 3;

@@ -45,18 +45,14 @@
             this.nudPriceMin = new System.Windows.Forms.NumericUpDown();
             this.pretMinLabel = new System.Windows.Forms.Label();
             this.btnClearSearch = new System.Windows.Forms.Button();
-            this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.cbSortDirection = new System.Windows.Forms.ComboBox();
-            this.cbSortColumn = new System.Windows.Forms.ComboBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
+            this.btnViewCart = new System.Windows.Forms.Button();
+            this.btnAddToCart = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgvPieseAuto)).BeginInit();
             this.filtre.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nudStockMin)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudPriceMax)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudPriceMin)).BeginInit();
-            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // lblWelcome
@@ -91,7 +87,7 @@
             // 
             // btnAddPiesa
             // 
-            this.btnAddPiesa.Location = new System.Drawing.Point(36, 756);
+            this.btnAddPiesa.Location = new System.Drawing.Point(36, 564);
             this.btnAddPiesa.Name = "btnAddPiesa";
             this.btnAddPiesa.Size = new System.Drawing.Size(220, 44);
             this.btnAddPiesa.TabIndex = 3;
@@ -101,7 +97,7 @@
             // 
             // btnEditPiesa
             // 
-            this.btnEditPiesa.Location = new System.Drawing.Point(36, 806);
+            this.btnEditPiesa.Location = new System.Drawing.Point(36, 614);
             this.btnEditPiesa.Name = "btnEditPiesa";
             this.btnEditPiesa.Size = new System.Drawing.Size(220, 44);
             this.btnEditPiesa.TabIndex = 4;
@@ -111,7 +107,7 @@
             // 
             // btnDeletePiesa
             // 
-            this.btnDeletePiesa.Location = new System.Drawing.Point(262, 806);
+            this.btnDeletePiesa.Location = new System.Drawing.Point(262, 614);
             this.btnDeletePiesa.Name = "btnDeletePiesa";
             this.btnDeletePiesa.Size = new System.Drawing.Size(220, 44);
             this.btnDeletePiesa.TabIndex = 5;
@@ -121,7 +117,7 @@
             // 
             // btnAddProducator
             // 
-            this.btnAddProducator.Location = new System.Drawing.Point(262, 756);
+            this.btnAddProducator.Location = new System.Drawing.Point(262, 564);
             this.btnAddProducator.Name = "btnAddProducator";
             this.btnAddProducator.Size = new System.Drawing.Size(220, 44);
             this.btnAddProducator.TabIndex = 6;
@@ -135,6 +131,7 @@
             this.txtSearch.Name = "txtSearch";
             this.txtSearch.Size = new System.Drawing.Size(347, 31);
             this.txtSearch.TabIndex = 7;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
             // 
             // label1
             // 
@@ -289,56 +286,6 @@
             this.btnClearSearch.UseVisualStyleBackColor = true;
             this.btnClearSearch.Click += new System.EventHandler(this.brnClearSearch_Click);
             // 
-            // groupBox1
-            // 
-            this.groupBox1.Controls.Add(this.cbSortDirection);
-            this.groupBox1.Controls.Add(this.cbSortColumn);
-            this.groupBox1.Controls.Add(this.label3);
-            this.groupBox1.Controls.Add(this.label2);
-            this.groupBox1.Location = new System.Drawing.Point(36, 543);
-            this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(445, 172);
-            this.groupBox1.TabIndex = 12;
-            this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "Sortare";
-            // 
-            // cbSortDirection
-            // 
-            this.cbSortDirection.FormattingEnabled = true;
-            this.cbSortDirection.Items.AddRange(new object[] {
-            "Asc",
-            "Desc"});
-            this.cbSortDirection.Location = new System.Drawing.Point(176, 116);
-            this.cbSortDirection.Name = "cbSortDirection";
-            this.cbSortDirection.Size = new System.Drawing.Size(243, 33);
-            this.cbSortDirection.TabIndex = 3;
-            // 
-            // cbSortColumn
-            // 
-            this.cbSortColumn.FormattingEnabled = true;
-            this.cbSortColumn.Location = new System.Drawing.Point(176, 46);
-            this.cbSortColumn.Name = "cbSortColumn";
-            this.cbSortColumn.Size = new System.Drawing.Size(243, 33);
-            this.cbSortColumn.TabIndex = 2;
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(10, 119);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(85, 25);
-            this.label3.TabIndex = 1;
-            this.label3.Text = "Directia";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(10, 49);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(92, 25);
-            this.label2.TabIndex = 0;
-            this.label2.Text = "Coloana";
-            // 
             // label4
             // 
             this.label4.AutoSize = true;
@@ -348,14 +295,33 @@
             this.label4.TabIndex = 13;
             this.label4.Text = "   ";
             // 
+            // btnViewCart
+            // 
+            this.btnViewCart.Location = new System.Drawing.Point(262, 806);
+            this.btnViewCart.Name = "btnViewCart";
+            this.btnViewCart.Size = new System.Drawing.Size(220, 44);
+            this.btnViewCart.TabIndex = 15;
+            this.btnViewCart.Text = "Cos";
+            this.btnViewCart.UseVisualStyleBackColor = true;
+            // 
+            // btnAddToCart
+            // 
+            this.btnAddToCart.Location = new System.Drawing.Point(36, 806);
+            this.btnAddToCart.Name = "btnAddToCart";
+            this.btnAddToCart.Size = new System.Drawing.Size(220, 44);
+            this.btnAddToCart.TabIndex = 14;
+            this.btnAddToCart.Text = "Adauga in Cos";
+            this.btnAddToCart.UseVisualStyleBackColor = true;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoSize = true;
             this.ClientSize = new System.Drawing.Size(1774, 1009);
+            this.Controls.Add(this.btnViewCart);
+            this.Controls.Add(this.btnAddToCart);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnClearSearch);
             this.Controls.Add(this.filtre);
             this.Controls.Add(this.btnSearch);
@@ -380,8 +346,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.nudStockMin)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudPriceMax)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.nudPriceMin)).EndInit();
-            this.groupBox1.ResumeLayout(false);
-            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -411,11 +375,8 @@
         private System.Windows.Forms.Button btnClearFilter;
         private System.Windows.Forms.Button btnApplyFilter;
         private System.Windows.Forms.Button btnClearSearch;
-        private System.Windows.Forms.GroupBox groupBox1;
-        private System.Windows.Forms.ComboBox cbSortDirection;
-        private System.Windows.Forms.ComboBox cbSortColumn;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Button btnViewCart;
+        private System.Windows.Forms.Button btnAddToCart;
     }
 }
