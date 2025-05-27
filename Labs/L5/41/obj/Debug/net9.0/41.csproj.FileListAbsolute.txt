@@ -1,0 +1,15 @@
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\bin\Debug\net9.0\41.exe
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\bin\Debug\net9.0\41.deps.json
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\bin\Debug\net9.0\41.runtimeconfig.json
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\bin\Debug\net9.0\41.dll
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\bin\Debug\net9.0\41.pdb
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.GeneratedMSBuildEditorConfig.editorconfig
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.AssemblyInfoInputs.cache
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.AssemblyInfo.cs
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.csproj.CoreCompileInputs.cache
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.sourcelink.json
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.dll
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\refint\41.dll
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.pdb
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\41.genruntimeconfig.cache
+E:\CTI\Anul III\Sem II\PAOO\Labs\L5\41\obj\Debug\net9.0\ref\41.dll

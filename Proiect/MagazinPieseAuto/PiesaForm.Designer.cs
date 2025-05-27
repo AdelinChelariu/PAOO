@@ -43,44 +43,54 @@
             // 
             // txtDenumire
             // 
-            this.txtDenumire.Location = new System.Drawing.Point(224, 70);
+            this.txtDenumire.Location = new System.Drawing.Point(121, 40);
+            this.txtDenumire.Margin = new System.Windows.Forms.Padding(2);
             this.txtDenumire.Name = "txtDenumire";
-            this.txtDenumire.Size = new System.Drawing.Size(360, 31);
+            this.txtDenumire.Size = new System.Drawing.Size(182, 20);
             this.txtDenumire.TabIndex = 0;
             // 
             // nudStoc
             // 
-            this.nudStoc.Location = new System.Drawing.Point(224, 178);
+            this.nudStoc.Location = new System.Drawing.Point(121, 121);
+            this.nudStoc.Margin = new System.Windows.Forms.Padding(2);
+            this.nudStoc.Maximum = new decimal(new int[] {
+            100000,
+            0,
+            0,
+            0});
             this.nudStoc.Name = "nudStoc";
-            this.nudStoc.Size = new System.Drawing.Size(109, 31);
+            this.nudStoc.Size = new System.Drawing.Size(54, 20);
             this.nudStoc.TabIndex = 2;
             // 
             // nudPret
             // 
             this.nudPret.DecimalPlaces = 2;
-            this.nudPret.Location = new System.Drawing.Point(224, 215);
+            this.nudPret.Location = new System.Drawing.Point(121, 161);
+            this.nudPret.Margin = new System.Windows.Forms.Padding(2);
             this.nudPret.Maximum = new decimal(new int[] {
             100000,
             0,
             0,
             0});
             this.nudPret.Name = "nudPret";
-            this.nudPret.Size = new System.Drawing.Size(109, 31);
+            this.nudPret.Size = new System.Drawing.Size(54, 20);
             this.nudPret.TabIndex = 3;
             // 
             // cbCategorie
             // 
             this.cbCategorie.FormattingEnabled = true;
-            this.cbCategorie.Location = new System.Drawing.Point(224, 252);
+            this.cbCategorie.Location = new System.Drawing.Point(121, 201);
+            this.cbCategorie.Margin = new System.Windows.Forms.Padding(2);
             this.cbCategorie.Name = "cbCategorie";
-            this.cbCategorie.Size = new System.Drawing.Size(360, 33);
+            this.cbCategorie.Size = new System.Drawing.Size(182, 21);
             this.cbCategorie.TabIndex = 4;
             // 
             // btnOk
             // 
-            this.btnOk.Location = new System.Drawing.Point(36, 415);
+            this.btnOk.Location = new System.Drawing.Point(27, 255);
+            this.btnOk.Margin = new System.Windows.Forms.Padding(2);
             this.btnOk.Name = "btnOk";
-            this.btnOk.Size = new System.Drawing.Size(142, 37);
+            this.btnOk.Size = new System.Drawing.Size(71, 19);
             this.btnOk.TabIndex = 6;
             this.btnOk.Text = "Ok";
             this.btnOk.UseVisualStyleBackColor = true;
@@ -88,9 +98,10 @@
             // 
             // btnCancel
             // 
-            this.btnCancel.Location = new System.Drawing.Point(473, 415);
+            this.btnCancel.Location = new System.Drawing.Point(232, 255);
+            this.btnCancel.Margin = new System.Windows.Forms.Padding(2);
             this.btnCancel.Name = "btnCancel";
-            this.btnCancel.Size = new System.Drawing.Size(142, 37);
+            this.btnCancel.Size = new System.Drawing.Size(71, 19);
             this.btnCancel.TabIndex = 7;
             this.btnCancel.Text = "Cancel";
             this.btnCancel.UseVisualStyleBackColor = true;
@@ -99,53 +110,59 @@
             // cbProducator
             // 
             this.cbProducator.FormattingEnabled = true;
-            this.cbProducator.Location = new System.Drawing.Point(224, 119);
+            this.cbProducator.Location = new System.Drawing.Point(121, 80);
+            this.cbProducator.Margin = new System.Windows.Forms.Padding(2);
             this.cbProducator.Name = "cbProducator";
-            this.cbProducator.Size = new System.Drawing.Size(360, 33);
+            this.cbProducator.Size = new System.Drawing.Size(182, 21);
             this.cbProducator.TabIndex = 8;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(30, 73);
+            this.label1.Location = new System.Drawing.Point(24, 42);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(128, 25);
+            this.label1.Size = new System.Drawing.Size(64, 13);
             this.label1.TabIndex = 9;
             this.label1.Text = "Nume Piesa";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(30, 122);
+            this.label2.Location = new System.Drawing.Point(24, 83);
+            this.label2.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(117, 25);
+            this.label2.Size = new System.Drawing.Size(59, 13);
             this.label2.TabIndex = 10;
             this.label2.Text = "Producator";
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(30, 180);
+            this.label3.Location = new System.Drawing.Point(24, 123);
+            this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(98, 25);
+            this.label3.Size = new System.Drawing.Size(49, 13);
             this.label3.TabIndex = 11;
             this.label3.Text = "Cantitate";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(30, 217);
+            this.label4.Location = new System.Drawing.Point(24, 163);
+            this.label4.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(51, 25);
+            this.label4.Size = new System.Drawing.Size(26, 13);
             this.label4.TabIndex = 12;
             this.label4.Text = "Pret";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(30, 252);
+            this.label5.Location = new System.Drawing.Point(24, 204);
+            this.label5.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(105, 25);
+            this.label5.Size = new System.Drawing.Size(52, 13);
             this.label5.TabIndex = 13;
             this.label5.Text = "Categorie";
             // 
@@ -163,19 +180,22 @@
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.nudStoc);
             this.groupBox1.Controls.Add(this.txtDenumire);
-            this.groupBox1.Location = new System.Drawing.Point(48, 51);
+            this.groupBox1.Location = new System.Drawing.Point(24, 27);
+            this.groupBox1.Margin = new System.Windows.Forms.Padding(2);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(675, 477);
+            this.groupBox1.Padding = new System.Windows.Forms.Padding(2);
+            this.groupBox1.Size = new System.Drawing.Size(332, 301);
             this.groupBox1.TabIndex = 14;
             this.groupBox1.TabStop = false;
-            this.groupBox1.Text = "groupBox1";
+            this.groupBox1.Text = "Detalii piesa";
             // 
             // PiesaForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(786, 588);
+            this.ClientSize = new System.Drawing.Size(383, 349);
             this.Controls.Add(this.groupBox1);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "PiesaForm";
             this.Text = "Adaugare Piesa Noua";
             ((System.ComponentModel.ISupportInitialize)(this.nudStoc)).EndInit();

@@ -4,7 +4,7 @@ using System.Windows.Forms;
 namespace MagazinPieseAuto {
     public static class Database {
         private const string ConnString =
-            "server=localhost;user=root;password=;database=magazinpieseautopaoo;SslMode=none";
+            "server=localhost;user=root;password=Adelin2711;database=magazinpieseautopaoo;SslMode=none";
 
         public static MySqlConnection GetConnection() {
             var conn = new MySqlConnection(ConnString);

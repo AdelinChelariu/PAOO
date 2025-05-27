@@ -1,34 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\",
+  "WorkspaceRootPath": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\proiect\\magazinpieseauto\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:cartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|c:\\users\\adelin\\desktop\\pfft\\aniii\\sem2\\paoo\\proiect\\magazinpieseauto\\producatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:producatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:piesaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\chartpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:chartpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\chartpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:chartpanelform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\chartpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:chartpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:adminpanelform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|e:\\cti\\anul iii\\sem ii\\paoo\\proiect\\magazinpieseauto\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF273BF6-682F-49B4-B071-B30C35A7FD75}|MagazinPieseAuto.csproj|solutionrelative:reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,40 +74,166 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProducatorForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\ProducatorForm.cs",
-              "RelativeDocumentMoniker": "ProducatorForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\ProducatorForm.cs [Design]",
-              "RelativeToolTip": "ProducatorForm.cs [Design]",
+              "DocumentIndex": 0,
+              "Title": "CartForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\CartForm.cs",
+              "RelativeToolTip": "CartForm.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAcwBwAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:00:16.257Z",
+              "WhenOpened": "2025-05-27T01:57:22.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\CartForm.cs",
+              "RelativeDocumentMoniker": "CartForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\CartForm.cs [Design]",
+              "RelativeToolTip": "CartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:55:45.032Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:15:21.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChartPanelForm.Designer.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.Designer.cs",
+              "RelativeDocumentMoniker": "ChartPanelForm.Designer.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.Designer.cs",
+              "RelativeToolTip": "ChartPanelForm.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAQwF8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:01:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\RegistrationForm.cs",
+              "RelativeToolTip": "RegistrationForm.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAIwF0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:53:44.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegistrationForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "RegistrationForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\RegistrationForm.cs [Design]",
+              "RelativeToolTip": "RegistrationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:44:34.761Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ReportForm.cs",
+              "RelativeDocumentMoniker": "ReportForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ReportForm.cs [Design]",
+              "RelativeToolTip": "ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:37:03.58Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AdminPanelForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "AdminPanelForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\AdminPanelForm.cs",
+              "RelativeToolTip": "AdminPanelForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwIEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:30:32.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminPanelForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\AdminPanelForm.cs",
+              "RelativeDocumentMoniker": "AdminPanelForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\AdminPanelForm.cs [Design]",
+              "RelativeToolTip": "AdminPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:15:34.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ChartPanelForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.cs",
+              "RelativeDocumentMoniker": "ChartPanelForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.cs",
+              "RelativeToolTip": "ChartPanelForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:03:23.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChartPanelForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.cs",
+              "RelativeDocumentMoniker": "ChartPanelForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\ChartPanelForm.cs [Design]",
+              "RelativeToolTip": "ChartPanelForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T23:01:12.813Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "PiesaForm.cs",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs",
               "RelativeDocumentMoniker": "PiesaForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs",
               "RelativeToolTip": "PiesaForm.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAAAtwGsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAWwHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T17:50:55.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs [Design]",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-14T10:59:52.539Z",
@@ -79,13 +241,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
               "RelativeToolTip": "LoginForm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAvwB0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T12:54:48.318Z",
               "EditorCaption": ""
@@ -93,38 +255,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "LoginForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
-              "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs [Design]",
-              "RelativeToolTip": "LoginForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T12:53:38.126Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAWwKwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T13:17:42.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PiesaForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs",
-              "RelativeDocumentMoniker": "PiesaForm.cs",
-              "ToolTip": "C:\\Users\\Adelin\\Desktop\\pfft\\ANIII\\Sem2\\PAOO\\Proiect\\MagazinPieseAuto\\PiesaForm.cs [Design]",
-              "RelativeToolTip": "PiesaForm.cs [Design]",
+              "DocumentIndex": 7,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\CTI\\Anul III\\Sem II\\PAOO\\Proiect\\MagazinPieseAuto\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T17:03:01.911Z",
+              "WhenOpened": "2025-05-13T12:53:38.126Z",
               "EditorCaption": " [Design]"
             }
           ]

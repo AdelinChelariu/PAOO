@@ -4,6 +4,7 @@ using System.Windows.Forms;
 
 namespace MagazinPieseAuto {
     public partial class LoginForm : Form {
+        public static int userId;
         public LoginForm() {
             InitializeComponent();
             this.AcceptButton = btnLogin;
@@ -29,7 +30,7 @@ namespace MagazinPieseAuto {
 
                     using(var reader = cmd.ExecuteReader()) {
                         if(reader.Read()) {
-                            var userId = reader.GetInt32("id_user");
+                            userId = reader.GetInt32("id_user");
                             var role = reader.GetString("role");
 
                             // Ascunde login și deschide MainForm
@@ -43,6 +44,11 @@ namespace MagazinPieseAuto {
                     }
                 }
             }
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e) {
+            using(var form = new RegistrationForm())
+                form.ShowDialog(this);
         }
     }
 }

@@ -1,0 +1,7 @@
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\bin\Debug\Pb1.exe.config
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\bin\Debug\Pb1.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\bin\Debug\Pb1.pdb
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\obj\Debug\Pb1.csproj.AssemblyReference.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\obj\Debug\Pb1.csproj.CoreCompileInputs.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\obj\Debug\Pb1.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\ModelPartialPC\Pb1\obj\Debug\Pb1.pdb

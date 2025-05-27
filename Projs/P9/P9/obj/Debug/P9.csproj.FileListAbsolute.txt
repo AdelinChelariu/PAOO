@@ -1,0 +1,10 @@
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\bin\Debug\P9.exe.config
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\bin\Debug\P9.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\bin\Debug\P9.pdb
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.csproj.AssemblyReference.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.Form1.resources
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.Properties.Resources.resources
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.csproj.GenerateResource.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.csproj.CoreCompileInputs.cache
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.exe
+E:\CTI\Anul III\Sem II\PAOO\Projs\P9\P9\obj\Debug\P9.pdb

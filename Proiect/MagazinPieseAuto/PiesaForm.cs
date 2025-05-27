@@ -6,10 +6,11 @@ using System.Windows.Forms;
 namespace MagazinPieseAuto {
     public partial class PiesaForm : Form {
         private readonly int? _idPiesa;
-
-        public PiesaForm(int? idPiesa = null) {
+        private readonly int? CurrentUserId;
+        public PiesaForm(int? userId = null, int ? idPiesa = null) {
             InitializeComponent();
             _idPiesa = idPiesa;
+            CurrentUserId = userId;
             LoadCategorii();
             LoadProducatori();
 
@@ -97,9 +98,14 @@ namespace MagazinPieseAuto {
                 cmd.Parameters.AddWithValue("@prodId", prodId);
 
                 cmd.ExecuteNonQuery();
+                LogService.LogAction(
+                LoginForm.userId,
+                _idPiesa.HasValue ? "Modificare piesă" : "Adăugare piesă",
+                cmd.CommandText);
             }
 
             DialogResult = DialogResult.OK;
+
         }
 
         private void btnCancel_Click(object sender, EventArgs e) {
